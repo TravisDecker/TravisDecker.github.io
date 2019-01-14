@@ -1,6 +1,6 @@
 
 
-Hi, I'm Travis Decker. I am a software developer, photographer and explorer. I recently graduated from Deep Dive Coding, A full time intensive boot camp where i learned Java, Android, Git/Version controle and a ton more. I am very excited about my new skills and i am eager to find employemt... wink wink, nudge nudge. 
+Hi, I'm Travis Decker. I am a software developer, photographer and explorer. I recently graduated from Deep Dive Coding, A full time intensive boot camp where i learned Java, Android, Git/Version control and a ton more. I am very excited about my new skills and i am eager to find employemt... wink wink, nudge nudge. 
 
 #### You can keep up to date with my work on these social media sites:
 [GitHub](https://github.com/TravisDecker)
