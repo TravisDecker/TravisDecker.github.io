@@ -6,6 +6,7 @@ I have now published one of my personal projects from the boot camp. "Shaker" is
 
 
 ![Shaker Screenshots](/resources/shaker/ShakerScreenshots.png)
+<img src="https://github.com/TravisDecker/TravisDecker.github.io/blob/master/resources/shaker/ShakerScreenshots.png" height="50">
 
 - Download the app: https://play.google.com/store/apps/details?id=com.shaker.shaker&hl=en
 - See the source code: https://github.com/TravisDecker/shaker
