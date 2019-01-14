@@ -4,8 +4,8 @@ Below you will find some information about my different software projects as wel
 ## Android Development
 I have now published one of my personal projects from the boot camp. "Shaker" is a app that allows you to monitor live earthquake data, courtesy of the United States Geological Survey.
 
-![Shaker Screenshots]
 
+![Shaker Screenshots]
 
 - Download the app: https://play.google.com/store/apps/details?id=com.shaker.shaker&hl=en
 - See the source code: https://github.com/TravisDecker/shaker
