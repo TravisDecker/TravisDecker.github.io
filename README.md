@@ -1,5 +1,5 @@
-Hi, I'm Travis Decker. I am a software developer, photographer and explorer. I recently graduated from Deep Dive Coding, A full time intensive boot camp where i learned Java, Android, Git/Version control and a ton more. I am very excited about my new skills and i am eager to find employment... wink wink, nudge nudge. 
-Below you will find some information about my different software projects as well as my photography. At the bottom of the page are links to my social media accounts to stay up to date as well as other links to sites or entities i may reference throughout this page.
+**Hi, I'm Travis Decker. I am a software developer, photographer and explorer. I recently graduated from Deep Dive Coding, A full time intensive boot camp where i learned Java, Android, Git/Version control and a ton more. I am very excited about my new skills and i am eager to find employment... wink wink, nudge nudge. 
+Below you will find some information about my different software projects as well as my photography. At the bottom of the page are links to my social media accounts to stay up to date as well as other links to sites or entities i may reference throughout this page.**
 
 ## Android Development
 I have now published one of my personal projects from the boot camp. "Shaker" is a app that allows you to monitor live earthquake data, courtesy of the United States Geological Survey.
