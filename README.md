@@ -6,8 +6,8 @@ I have now published one of my personal projects from the boot camp. "Shaker" is
 
 ![](resources/shaker/ShakerScreenshots.png)
 
-- Download the app: https://play.google.com/store/apps/details?id=com.shaker.shaker&hl=en
-- See the source code: https://github.com/TravisDecker/shaker
+- Download the app: [Google Play Store](https://play.google.com/store/apps/details?id=com.shaker.shaker&hl=en)
+- See the source code: [GitHub](https://github.com/TravisDecker/shaker)
 
 
 #### You can keep up to date with my work on these social media sites:
