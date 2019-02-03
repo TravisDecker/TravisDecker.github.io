@@ -10,7 +10,7 @@ I have now published one of my personal projects from the boot camp. "Shaker" is
 - See the source code: [GitHub](https://github.com/TravisDecker/shaker)
 
 ## Other News
-Amongst other things I should be working on, I am starting a new personal project. At this time I don't want to spill the details on the project itself but I do want to share something I learned that will be implemented in the new project. [Hre is the repository.](https://github.com/TravisDecker/ImageEncoder/blob/master/README.md)
+Amongst other things I should be working on, I am starting a new personal project. At this time I don't want to spill the details on the project itself but I do want to share something I learned that will be implemented in the new project. [click here to see the repository.](https://github.com/TravisDecker/ImageEncoder/blob/master/README.md)
 
 
 #### You can stay up to date with my work on these social media sites:
