@@ -2,6 +2,12 @@
 Below you will find some information about my different software projects as well as my photography. At the bottom of the page, there are links to my social media accounts to stay up to date, as well as other links to sites or entities I may reference throughout this page.**
 
 ## Android Development
+I am a co-organizer of the local android meet up. We are starting an open source group project and I encourage you to check it out. If your a local developer please consider joining our meet up! 
+
+- our Meet Up[MeetUp](https://www.meetup.com/New-Mexico-Android-Developers/)
+- NM Android Devlopers Gihib[NMAndroidDevlopers](https://github.com/NewMexicoAndroidDevelopers)
+
+# Shaker
 I have now published one of my personal projects from the boot camp. "Shaker" is an app that allows users to monitor live earthquake data, courtesy of the United States Geological Survey.
 
 ![](resources/shaker/ShakerScreenshots.png)
@@ -10,7 +16,7 @@ I have now published one of my personal projects from the boot camp. "Shaker" is
 - See the source code: [GitHub](https://github.com/TravisDecker/shaker)
 
 ## Other News
-Amongst other things I should be working on, I am starting a new personal project. At this time I don't want to spill the details on the project itself but I do want to share something I learned that will be implemented in the new project. [click here to see the repository.](https://github.com/TravisDecker/ImageEncoder/blob/master/README.md)
+I recently experienced one of the coolest interviews ever. Bootime, a local company here in Albuquerque, Does what they call an “Applicant Party”. They Invite all job applicants as well as all of their employees and its a way for every to sorta of experience the environment. They pre plan activities and it was a lot of fun. It's a cultural interveiew and very effective in my opinion. 
 
 
 #### You can stay up to date with my work on these social media sites:
